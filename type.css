@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'SchoolSerif';
+  font-style: normal;
+  font-weight: 700;
+  src: url(schoolserif-0.woff2) format('truetype');
+}
+
+@font-face {
+  font-family: 'SchoolSans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(schoolsans-0.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'SchoolSans';
+  font-style: normal;
+  font-weight: 600;
+  src: url(schoolsans-1.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'SchoolSans';
+  font-style: normal;
+  font-weight: 700;
+  src: url(schoolsans-2.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'SchoolSans';
+  font-style: normal;
+  font-weight: 800;
+  src: url(schoolsans-3.woff2) format('truetype');
+}
